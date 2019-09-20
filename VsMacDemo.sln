@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsMacDemo", "VsMacDemo\VsMacDemo.csproj", "{8C52904E-03EC-47BA-8B18-BE9D129B987F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsMacDemo.Tests", "VsMacDemo.Tests\VsMacDemo.Tests.csproj", "{42C6A586-1BB4-43F1-A5F2-BAB07B1664B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C52904E-03EC-47BA-8B18-BE9D129B987F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C52904E-03EC-47BA-8B18-BE9D129B987F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C52904E-03EC-47BA-8B18-BE9D129B987F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C52904E-03EC-47BA-8B18-BE9D129B987F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C6A586-1BB4-43F1-A5F2-BAB07B1664B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C6A586-1BB4-43F1-A5F2-BAB07B1664B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C6A586-1BB4-43F1-A5F2-BAB07B1664B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C6A586-1BB4-43F1-A5F2-BAB07B1664B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
